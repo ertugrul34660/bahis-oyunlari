@@ -21,6 +21,18 @@ def poisson_prob(lmbda: float, k: int) -> float:
         return 1.0 if k == 0 else 0.0
     return (math.pow(lmbda, k) * math.exp(-lmbda)) / math.factorial(k)
 
+def dixon_coles_tau(h: int, a: int, lh: float, la: float, rho: float = -0.11) -> float:
+    """Dixon-Coles (1997) düşük skorlu korelasyon düzeltmesi (0-0, 1-0, 0-1, 1-1)."""
+    if h == 0 and a == 0:
+        return max(0.0, 1.0 - (lh * la * rho))
+    elif h == 1 and a == 0:
+        return max(0.0, 1.0 + (la * rho))
+    elif h == 0 and a == 1:
+        return max(0.0, 1.0 + (lh * rho))
+    elif h == 1 and a == 1:
+        return max(0.0, 1.0 - rho)
+    return 1.0
+
 
 class PoissonScoreEngine:
     def __init__(self):
@@ -67,7 +79,8 @@ class PoissonScoreEngine:
             for a in range(max_goals + 1):
                 p_h = poisson_prob(lambda_h, h)
                 p_a = poisson_prob(lambda_a, a)
-                p_score = p_h * p_a
+                tau = dixon_coles_tau(h, a, lambda_h, lambda_a)
+                p_score = p_h * p_a * tau
                 score_matrix[(h, a)] = p_score
 
                 # 2.5 Üst

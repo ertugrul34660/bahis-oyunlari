@@ -77,15 +77,40 @@ class RiskGuardian:
         Kasa Koruma Kuralı 2: Oran ve Risk Dengesi.
         Düşük oranlı ama yüksek riskli tuzak maçlara asla bütçe verilmez.
         """
-        # Tuzak Kuralı: Oran < 1.30 ama model olasılığı %75'in altındaysa REDDET!
-        if odds < 1.30 and calculated_prob_pct < 75.0:
-            return False, f"TUZAK ORAN REDDİ: Oran çok düşük ({odds:.2f}) fakat risk yüksek (Olasılık %{calculated_prob_pct:.1f} < %75). Kasa riske atılamaz."
+        # Tuzak Kuralı: Oran < 1.50 (RULE-01 Ağır Favori Eşiği) ama model olasılığı %75'in altındaysa REDDET!
+        if odds < 1.50 and calculated_prob_pct < 75.0:
+            return False, f"TUZAK ORAN REDDİ (RULE-01): Oran çok düşük ({odds:.2f}) fakat risk yüksek (Olasılık %{calculated_prob_pct:.1f} < %75). Kasa riske atılamaz."
 
         # Tuzak Kuralı: Oran > 4.50 ama olasılık %15'in altındaysa hayali kazanç peşinde koşulmaz
         if odds > 4.50 and calculated_prob_pct < 15.0:
             return False, f"HAYALİ ORAN REDDİ: Yüksek oran ({odds:.2f}) ancak istatistiksel zemin yetersiz (%{calculated_prob_pct:.1f})."
 
         return True, "Oran ve risk dengesi onaylandı."
+
+    def validate_cross_module_consistency(self, pick: str, poisson_data: Dict[str, Any], tournament_type: str = "") -> Tuple[bool, str]:
+        """
+        Kasa Koruma Kuralı 3: Çapraz Modül Doğrulayıcı (Cross-Module Validator).
+        Kupon modülü ile Poisson Skor Motoru arasındaki uyuşmazlıkları denetler.
+        """
+        tot_lambda = poisson_data.get("lambda_h", 0) + poisson_data.get("lambda_a", 0)
+        tg_band = poisson_data.get("tg_bandi", "")
+        kg_var_pct = poisson_data.get("kg_var_yuzde", 0)
+
+        # 1. Çelişki: Poisson yüksek gol derken 2.5 Alt kuponu girilemez (Svay Rieng dersi)
+        if "2.5 Alt" in pick or "Alt" in pick:
+            if tot_lambda >= 2.85 or "4-6" in tg_band:
+                return False, f"ÇAPRAZ DOĞRULAMA REDDİ: Poisson motoru gol beklentisini yüksek (λ={tot_lambda:.2f}, TG={tg_band}) tespit etti. '2.5 Alt' tercihi sistemce kilitlendi!"
+
+            # Kupa eleme maçlarında tek maçlık eliminasyon riski (Zvolen dersi)
+            if any(k in tournament_type.lower() for k in ["kupa", "cup", "pokal", "slovnaft"]):
+                if tot_lambda >= 2.30:
+                    return False, f"KUPA ELEME RİSKİ REDDİ: Kupa tek maç eliminasyonlarında takımlar son dakikalarda savunmayı terk eder. 2.5 Alt riski onaylanmadı."
+
+        # 2. Çelişki: Poisson KG VAR yüksek derken KG YOK kuponu girilemez
+        if "KG YOK" in pick and kg_var_pct >= 56.0:
+            return False, f"ÇAPRAZ DOĞRULAMA REDDİ: Poisson KG VAR ihtimalini %{kg_var_pct:.1f} olarak hesapladı. KG YOK tercihi çelişkili bulunarak reddedildi."
+
+        return True, "Çapraz modül tutarlılığı onaylandı."
 
     def trigger_safe_mode(self, reason: str):
         """Veri akışı bozulduğunda güvenli moda geçer."""
