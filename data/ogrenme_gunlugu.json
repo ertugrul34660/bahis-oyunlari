@@ -294,5 +294,45 @@
     "sonuc": "KAYBETTİ",
     "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
     "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Lokomotiva Zvolen 2-2 FK Kosice",
+    "tahmin": "2.5 Alt (1.65)",
+    "gerceklesen": "2-2 (4 Gol)",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Kupa Eleme Dinamizmi ve Kontrolsüz Risk Alma: Kupa maçlarında geri düşen alt lig takımının tüm hatlarıyla saldırması savunma emniyetini yok eder.",
+    "alinan_ders": "Kupa eleme maçlarında tek maçlı eliminasyon riski nedeniyle 2.5 Alt filtresi kısıtlandı; KG Var veya İY/MS kombinasyonlarına ağırlık verildi."
+  },
+  {
+    "mac": "PKR Svay Rieng 4-1 Port FC",
+    "tahmin": "2.5 Alt (1.86)",
+    "gerceklesen": "4-1 (5 Gol)",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Poisson Uyarısını Göz Ardı Eden Eski Bahis Tuzağı: Poisson modelimiz '4-6 Gol' ve 'KG VAR (%58.7)' uyarısı vermesine rağmen, eski yöntemle girilen 2.5 Alt bahsi ezildi.",
+    "alinan_ders": "Poisson Toplam Gol beklentisi (lambda_total > 3.0) yüksek olduğunda ASLA 2.5 Alt oynanmaz; modelin Poisson TG ve KG Var sinyali birincil karar kuralı yapıldı."
+  },
+  {
+    "mac": "Dob 1-1 Bistrica",
+    "tahmin": "2.5 Alt (1.65)",
+    "gerceklesen": "1-1 (2 Gol)",
+    "sonuc": "KAZANDI (+97.50 TL)",
+    "hata_koku": "Yok (Kusursuz Model Başarısı)",
+    "alinan_ders": "Denk güçteki Doğu Avrupa ligi ekiplerinin kontrollü oyun yapısı düşük xG üretti ve 2.5 Alt tercihi kasayı büyüttü."
+  },
+  {
+    "mac": "Malavan 1-1 Gol Gohar",
+    "tahmin": "En Olası Skor: 1-1 (%13.2) & İY X & İY/MS X/X",
+    "gerceklesen": "1-1 (İY: 0-0)",
+    "sonuc": "TAM İSABET SKOR VE İY BİLİNDİ",
+    "hata_koku": "Yok (Zirve Skor Zaferi)",
+    "alinan_ders": "Savunma liglerinde (İran/Körfez) lambda parametreleri 1.1-1.2 bandındayken iki değişkenli Poisson matrisinin tepe noktası (1-1) olağanüstü yüksek doğruluk sağlar."
+  },
+  {
+    "mac": "Beltinci 1-3 Celje",
+    "tahmin": "İY 2 (%49.6) & İY/MS 2/2",
+    "gerceklesen": "1-3 (İY: 0-2 Celje)",
+    "sonuc": "İY VE İY/MS TAM İSABET",
+    "hata_koku": "Yok (Taktiksel Zafer)",
+    "alinan_ders": "Büyük kalite uçurumu olan kupa maçlarında deplasman favorisi ilk yarıdan ağırlığını koyar; İY 2 ve 2/2 tercihi en yüksek kârlılığı sunar."
   }
 ]

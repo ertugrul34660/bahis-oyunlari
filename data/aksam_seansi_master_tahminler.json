@@ -1,0 +1,110 @@
+[
+  {
+    "mac": "Paris (K) vs Koge (K)",
+    "saat": "20:45",
+    "lig": "UEFA Kadınlar Şampiyonlar Ligi",
+    "lambda_h": 2.64,
+    "lambda_a": 0.35,
+    "en_olasi_skor": "2-0",
+    "skor_olasilik": 17.5,
+    "alternatif_skorlar": [
+      {
+        "skor": "3-0",
+        "olasilik": 15.4
+      },
+      {
+        "skor": "1-0",
+        "olasilik": 13.3
+      }
+    ],
+    "iy_tahmini": "İY 1",
+    "iy_guven": 59.7,
+    "iy_15_alt": 63.2,
+    "kg_tercihi": "KG YOK",
+    "kg_var_yuzde": 25.9,
+    "iy_ms": "İY/MS 1/1",
+    "tg_bandi": "4-6 Gol",
+    "taktiksel_not": "Paris iç sahada yüksek hücum temposuna sahip. Koge savunmada açık veriyor. RULE-02 uyarınca 2.5 Alt tuzağından kaçınıldı; ev sahibi farkı ve 2-0 / 3-0 skoru ön planda."
+  },
+  {
+    "mac": "Amiens vs Caen",
+    "saat": "22:45",
+    "lig": "Fransa Ligue 3",
+    "lambda_h": 1.37,
+    "lambda_a": 0.98,
+    "en_olasi_skor": "1-0",
+    "skor_olasilik": 13.1,
+    "alternatif_skorlar": [
+      {
+        "skor": "1-1",
+        "olasilik": 12.8
+      },
+      {
+        "skor": "0-0",
+        "olasilik": 9.5
+      }
+    ],
+    "iy_tahmini": "İY X",
+    "iy_guven": 46.0,
+    "iy_15_alt": 73.2,
+    "kg_tercihi": "KG YOK",
+    "kg_var_yuzde": 46.4,
+    "iy_ms": "İY/MS X/1",
+    "tg_bandi": "2-3 Gol",
+    "taktiksel_not": "Fransa alt ligi katı savunma disiplini. RULE-11 gereğince 1-0 / 1-1 skorları ve İY X beraberlik katsayısı (%46+) en güvenli limandır."
+  },
+  {
+    "mac": "Arsenal (K) vs Lyon (K)",
+    "saat": "23:00",
+    "lig": "UEFA Kadınlar Şampiyonlar Ligi",
+    "lambda_h": 1.15,
+    "lambda_a": 1.9,
+    "en_olasi_skor": "1-1",
+    "skor_olasilik": 10.3,
+    "alternatif_skorlar": [
+      {
+        "skor": "1-2",
+        "olasilik": 9.8
+      },
+      {
+        "skor": "0-1",
+        "olasilik": 9.0
+      }
+    ],
+    "iy_tahmini": "İY 2",
+    "iy_guven": 39.4,
+    "iy_15_alt": 62.3,
+    "kg_tercihi": "KG VAR",
+    "kg_var_yuzde": 57.1,
+    "iy_ms": "İY/MS 2/2",
+    "tg_bandi": "4-6 Gol",
+    "taktiksel_not": "Avrupa kadın futbolunun iki devi. Lyon Şampiyonlar Ligi tecrübesiyle (RULE-09) deplasmanda avantajlı. Poisson 0-2 / 1-2 deplasman üstünlüğü öngörüyor."
+  },
+  {
+    "mac": "Benfica (K) vs Roma (K)",
+    "saat": "23:00",
+    "lig": "UEFA Kadınlar Şampiyonlar Ligi",
+    "lambda_h": 1.59,
+    "lambda_a": 1.47,
+    "en_olasi_skor": "1-1",
+    "skor_olasilik": 11.0,
+    "alternatif_skorlar": [
+      {
+        "skor": "2-1",
+        "olasilik": 8.7
+      },
+      {
+        "skor": "1-2",
+        "olasilik": 8.1
+      }
+    ],
+    "iy_tahmini": "İY X",
+    "iy_guven": 39.7,
+    "iy_15_alt": 62.1,
+    "kg_tercihi": "KG VAR",
+    "kg_var_yuzde": 60.5,
+    "iy_ms": "İY/MS X/X",
+    "tg_bandi": "4-6 Gol",
+    "taktiksel_not": "İki hücum takımı. RULE-12 uyarınca karşılıklı goller kaçınılmaz; KG VAR (%59.1) ve 1-1 / 2-1 skorları en yüksek matematiksel beklentiye sahiptir."
+  }
+]

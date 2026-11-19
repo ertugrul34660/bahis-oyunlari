@@ -1,26 +1,20 @@
 {
-  "versiyon": "2.0.0-DeepLearned",
-  "son_guncelleme": "2026-11-19T14:00:04.367171",
-  "toplam_ogrenme_adimi": 50,
-  "ogrenme_katsayisi_lr": 0.035,
+  "versiyon": "2.1.0-MasterLearned",
+  "son_guncelleme": "2026-11-19T18:20:11.474774",
+  "toplam_ogrenme_adimi": 55,
+  "ogrenme_katsayisi_lr": 0.04,
   "agirliklar": {
-    "kadro_kalitesi": 0.245,
-    "form_ve_puan": 0.315,
-    "fiziki_kondisyon_dinlenme": 0.165,
-    "ev_sahibi_avantaji": 0.145,
-    "seyahat_ve_yol_cezasi": 0.07,
-    "oran_deger_farki": 0.06
+    "kadro_kalitesi": 0.25,
+    "form_ve_puan": 0.28,
+    "poisson_gol_beklentisi": 0.15,
+    "fiziki_kondisyon_dinlenme": 0.13,
+    "ev_sahibi_avantaji": 0.11,
+    "oran_deger_farki": 0.08
   },
-  "ogrenilen_kurallar": [
-    "1.50 altındaki ağır favori tuzağı: Avustralya ve kupa play-off maçlarında favori takım rehavete kapıldığında, zayıf rakibin katı 5-4-1 savunması beraberlik riskini %40 artırır. Değer marjı (+EV) olmayan <1.50 favorilere girilmez.",
-    "Kör istatistik tuzağı: Kadınlar liginde genel lig ortalamasının kısır olmasına (1.7 gol) güvenerek 2.5 Alt oynanmaz; takımlardan biri önde tam saha pres uyguluyorsa taktiksel pres temposu lig ortalamasını ilk yarıdan ezer.",
-    "Erken gol ve bunker savunma: Afrika liglerinde ev sahibi ilk 15 dakikada öne geçerse ultra-defansif kapalı oyuna (otobüs çekme) geçer; beraberlik ihtimali düşer, maç 1-0 kilitlenir.",
-    "Geçiş hücumu ve kontra-atak: Ev sahibi takım topa %60+ sahip olsa dahi, deplasman takımının geçiş hücumu kalitesi yüksekse beraberlik bozulur; kontra-atak bitiriciliği puan tablosundan daha belirleyicidir.",
-    "Zemin ve seyirci terörü: Nijerya NPFL ve zorlu coğrafyalarda sert zemin ve agresif seyirci baskısı teknik deplasman takımlarına -%25 handikap yazar; iç saha avantajı belirleyicidir.",
-    "Denk rezerv takımlarda yüksek oranlı beraberlik (+EV Alpha): Doğu Avrupa rezerv liglerinde iki denk altyapı ekibi karşılaştığında savunma zafiyetleri gollü beraberlik doğurur; 3.80 gibi oranlarda matematiksel avantaj maksimumdur.",
-    "Kuzey Afrika eleme kupası temkinliliği: Mısır ve Kuzey Afrika kupa maçlarında 90 dakika takımlar sıfır risk alır; xG <0.80 olduğunda 0-0 beraberlik katsayısı önceliklendirilir.",
-    "Kupa rotasyon kaosu ve sahte 2.5 Alt tuzağı: İspanya Kral Kupası ilk turlarında üst lig takımları rotasyon yaptığında savunma organizasyonu çöker; 1.55 orandan 2.5 Alt tuzağına düşülmez, PAS GEÇİLİR (Kasa sıfır kayıpla korundu).",
-    "Elit lig ve Şampiyonlar Ligi tecrübesi: WSL devleri İskandinav ligi takımlarına karşı deplasmanda dahi rehavete kapılmadan kalite farkını 90 dakikaya yayarak maçı koparır.",
-    "Kelly Kriteri asimetrik kazanç yasası: İsabet oranı %50 olsa dahi, 3.80 ve 2.55 gibi pozitif beklenen değerli (+EV) maçlara doğru pozisyon boyutlandırması uygulandığında kasa daima net kâr üretir."
+  "ogrenilen_kurallar_sayisi": 13,
+  "yeni_eklenen_ogrenmeler": [
+    "RULE-11: Savunma odaklı liglerde Poisson skor gücü (Malavan 1-1 Gol Gohar tam isabet)",
+    "RULE-12: Asya ve kupa maçlarında açık tempo nedeniyle Poisson TG 4-6 ve KG Var önceliği (Svay Rieng 4-1)",
+    "RULE-13: Balkan kupa temkini ve düşük xG kontrollü maçlarda 2.5 Alt kazanç pekiştirmesi (Dob 1-1)"
   ]
 }
