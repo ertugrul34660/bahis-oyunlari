@@ -1,0 +1,254 @@
+[
+  {
+    "mac": "Lokomotiva Zvolen vs FK Kosice",
+    "lambda_h": 0.33,
+    "lambda_a": 2.03,
+    "en_olasi_skor": "0-2",
+    "en_olasi_skor_yuzde": 19.5,
+    "alternatif_skorlar": [
+      {
+        "skor": "0-1",
+        "olasilik": 19.2
+      },
+      {
+        "skor": "0-3",
+        "olasilik": 13.2
+      }
+    ],
+    "ilk_yari_tahmini": "İY 2",
+    "ilk_yari_guven": 52.0,
+    "ilk_yari_skor": "0-0",
+    "ilk_yari_15_alt_yuzde": 73.0,
+    "kg_var_yuzde": 23.9,
+    "kg_yok_yuzde": 76.1,
+    "kg_tercihi": "KG YOK",
+    "iy_ms_tahmini": "İY/MS 2/2",
+    "toplam_gol_araligi": "2-3 Gol",
+    "saat": "15:00",
+    "lig": "Slovakya Kupa Son 16"
+  },
+  {
+    "mac": "Svay Rieng vs Port FC",
+    "lambda_h": 1.23,
+    "lambda_a": 1.85,
+    "en_olasi_skor": "1-1",
+    "en_olasi_skor_yuzde": 10.5,
+    "alternatif_skorlar": [
+      {
+        "skor": "1-2",
+        "olasilik": 9.7
+      },
+      {
+        "skor": "0-1",
+        "olasilik": 8.5
+      }
+    ],
+    "ilk_yari_tahmini": "İY X",
+    "ilk_yari_guven": 39.0,
+    "ilk_yari_skor": "0-0",
+    "ilk_yari_15_alt_yuzde": 61.8,
+    "kg_var_yuzde": 58.7,
+    "kg_yok_yuzde": 41.3,
+    "kg_tercihi": "KG VAR",
+    "iy_ms_tahmini": "İY/MS X/2",
+    "toplam_gol_araligi": "4-6 Gol",
+    "saat": "15:00",
+    "lig": "AFC ASEAN Kulüpler Şampiyonası"
+  },
+  {
+    "mac": "Dob vs Bistrica",
+    "lambda_h": 0.84,
+    "lambda_a": 2.25,
+    "en_olasi_skor": "0-2",
+    "en_olasi_skor_yuzde": 11.5,
+    "alternatif_skorlar": [
+      {
+        "skor": "0-1",
+        "olasilik": 10.2
+      },
+      {
+        "skor": "1-2",
+        "olasilik": 9.7
+      }
+    ],
+    "ilk_yari_tahmini": "İY 2",
+    "ilk_yari_guven": 48.2,
+    "ilk_yari_skor": "0-0",
+    "ilk_yari_15_alt_yuzde": 61.7,
+    "kg_var_yuzde": 49.3,
+    "kg_yok_yuzde": 50.7,
+    "kg_tercihi": "KG YOK",
+    "iy_ms_tahmini": "İY/MS 2/2",
+    "toplam_gol_araligi": "4-6 Gol",
+    "saat": "15:30",
+    "lig": "Slovenya Kupa Son 16"
+  },
+  {
+    "mac": "Beltinci vs Celje",
+    "lambda_h": 0.41,
+    "lambda_a": 1.95,
+    "en_olasi_skor": "0-1",
+    "en_olasi_skor_yuzde": 18.4,
+    "alternatif_skorlar": [
+      {
+        "skor": "0-2",
+        "olasilik": 18.0
+      },
+      {
+        "skor": "0-3",
+        "olasilik": 11.7
+      }
+    ],
+    "ilk_yari_tahmini": "İY 2",
+    "ilk_yari_guven": 49.6,
+    "ilk_yari_skor": "0-0",
+    "ilk_yari_15_alt_yuzde": 73.0,
+    "kg_var_yuzde": 28.4,
+    "kg_yok_yuzde": 71.6,
+    "kg_tercihi": "KG YOK",
+    "iy_ms_tahmini": "İY/MS 2/2",
+    "toplam_gol_araligi": "2-3 Gol",
+    "saat": "15:30",
+    "lig": "Slovenya Kupa Son 16"
+  },
+  {
+    "mac": "Malavan vs Gol Gohar Sirjan",
+    "lambda_h": 1.19,
+    "lambda_a": 1.11,
+    "en_olasi_skor": "1-1",
+    "en_olasi_skor_yuzde": 13.2,
+    "alternatif_skorlar": [
+      {
+        "skor": "1-0",
+        "olasilik": 11.9
+      },
+      {
+        "skor": "0-1",
+        "olasilik": 11.1
+      }
+    ],
+    "ilk_yari_tahmini": "İY X",
+    "ilk_yari_guven": 46.8,
+    "ilk_yari_skor": "0-0",
+    "ilk_yari_15_alt_yuzde": 74.0,
+    "kg_var_yuzde": 46.5,
+    "kg_yok_yuzde": 53.5,
+    "kg_tercihi": "KG YOK",
+    "iy_ms_tahmini": "İY/MS X/X",
+    "toplam_gol_araligi": "2-3 Gol",
+    "saat": "16:00",
+    "lig": "İran Persian Gulf Pro Lig"
+  },
+  {
+    "mac": "Paris (K) vs Koge (K)",
+    "lambda_h": 2.3,
+    "lambda_a": 0.76,
+    "en_olasi_skor": "2-0",
+    "en_olasi_skor_yuzde": 12.4,
+    "alternatif_skorlar": [
+      {
+        "skor": "1-0",
+        "olasilik": 10.8
+      },
+      {
+        "skor": "3-0",
+        "olasilik": 9.5
+      }
+    ],
+    "ilk_yari_tahmini": "İY 1",
+    "ilk_yari_guven": 49.9,
+    "ilk_yari_skor": "0-0",
+    "ilk_yari_15_alt_yuzde": 62.1,
+    "kg_var_yuzde": 46.3,
+    "kg_yok_yuzde": 53.7,
+    "kg_tercihi": "KG YOK",
+    "iy_ms_tahmini": "İY/MS 1/1",
+    "toplam_gol_araligi": "4-6 Gol",
+    "saat": "20:45",
+    "lig": "UEFA Kadınlar Şampiyonlar Ligi"
+  },
+  {
+    "mac": "Amiens vs Caen",
+    "lambda_h": 1.36,
+    "lambda_a": 0.99,
+    "en_olasi_skor": "1-0",
+    "en_olasi_skor_yuzde": 13.0,
+    "alternatif_skorlar": [
+      {
+        "skor": "1-1",
+        "olasilik": 12.8
+      },
+      {
+        "skor": "0-0",
+        "olasilik": 9.5
+      }
+    ],
+    "ilk_yari_tahmini": "İY X",
+    "ilk_yari_guven": 46.0,
+    "ilk_yari_skor": "0-0",
+    "ilk_yari_15_alt_yuzde": 73.2,
+    "kg_var_yuzde": 46.5,
+    "kg_yok_yuzde": 53.5,
+    "kg_tercihi": "KG YOK",
+    "iy_ms_tahmini": "İY/MS X/1",
+    "toplam_gol_araligi": "2-3 Gol",
+    "saat": "22:45",
+    "lig": "Fransa Ligue 3"
+  },
+  {
+    "mac": "Arsenal (K) vs Lyon (K)",
+    "lambda_h": 0.87,
+    "lambda_a": 2.15,
+    "en_olasi_skor": "0-2",
+    "en_olasi_skor_yuzde": 11.3,
+    "alternatif_skorlar": [
+      {
+        "skor": "0-1",
+        "olasilik": 10.5
+      },
+      {
+        "skor": "1-2",
+        "olasilik": 9.8
+      }
+    ],
+    "ilk_yari_tahmini": "İY 2",
+    "ilk_yari_guven": 46.4,
+    "ilk_yari_skor": "0-0",
+    "ilk_yari_15_alt_yuzde": 62.7,
+    "kg_var_yuzde": 50.0,
+    "kg_yok_yuzde": 50.0,
+    "kg_tercihi": "KG YOK",
+    "iy_ms_tahmini": "İY/MS 2/2",
+    "toplam_gol_araligi": "4-6 Gol",
+    "saat": "23:00",
+    "lig": "UEFA Kadınlar Şampiyonlar Ligi"
+  },
+  {
+    "mac": "Benfica (K) vs Roma (K)",
+    "lambda_h": 1.82,
+    "lambda_a": 1.26,
+    "en_olasi_skor": "1-1",
+    "en_olasi_skor_yuzde": 10.5,
+    "alternatif_skorlar": [
+      {
+        "skor": "2-1",
+        "olasilik": 9.6
+      },
+      {
+        "skor": "1-0",
+        "olasilik": 8.4
+      }
+    ],
+    "ilk_yari_tahmini": "İY X",
+    "ilk_yari_guven": 39.1,
+    "ilk_yari_skor": "0-0",
+    "ilk_yari_15_alt_yuzde": 61.8,
+    "kg_var_yuzde": 59.1,
+    "kg_yok_yuzde": 40.9,
+    "kg_tercihi": "KG VAR",
+    "iy_ms_tahmini": "İY/MS X/1",
+    "toplam_gol_araligi": "4-6 Gol",
+    "saat": "23:00",
+    "lig": "UEFA Kadınlar Şampiyonlar Ligi"
+  }
+]

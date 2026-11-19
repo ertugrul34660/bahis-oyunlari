@@ -1,19 +1,5 @@
 [
   {
-    "mac_id": "MK-20964",
-    "lig": "UEFA Kadınlar Şampiyonlar Ligi Lig Aşaması",
-    "saat": "23:00",
-    "ev_sahibi": "Arsenal (K)",
-    "deplasman": "Lyon (K)",
-    "oranlar": {
-      "ms_1": 3.65,
-      "ms_x": 3.5,
-      "ms_2": 1.48,
-      "alt_25": 1.98,
-      "ust_25": 1.38
-    }
-  },
-  {
     "mac_id": "MK-21023",
     "lig": "UEFA Kadınlar Şampiyonlar Ligi Lig Aşaması",
     "saat": "23:00",
@@ -21,10 +7,10 @@
     "deplasman": "Roma (K)",
     "oranlar": {
       "ms_1": 1.81,
-      "ms_x": 3.33,
-      "ms_2": 2.62,
-      "alt_25": 2.12,
-      "ust_25": 1.31
+      "ms_x": 3.3,
+      "ms_2": 2.64,
+      "alt_25": 2.15,
+      "ust_25": 1.3
     }
   },
   {
@@ -34,11 +20,25 @@
     "ev_sahibi": "Paris (K)",
     "deplasman": "Koge (K)",
     "oranlar": {
-      "ms_1": 1.39,
-      "ms_x": 3.73,
-      "ms_2": 4.09,
-      "alt_25": 2.15,
+      "ms_1": 1.36,
+      "ms_x": 3.78,
+      "ms_2": 4.25,
+      "alt_25": 2.16,
       "ust_25": 1.3
+    }
+  },
+  {
+    "mac_id": "MK-20964",
+    "lig": "UEFA Kadınlar Şampiyonlar Ligi Lig Aşaması",
+    "saat": "23:00",
+    "ev_sahibi": "Arsenal (K)",
+    "deplasman": "Lyon (K)",
+    "oranlar": {
+      "ms_1": 3.78,
+      "ms_x": 3.61,
+      "ms_2": 1.45,
+      "alt_25": 2.13,
+      "ust_25": 1.31
     }
   },
   {
@@ -51,8 +51,8 @@
       "ms_1": 1.74,
       "ms_x": 3.44,
       "ms_2": 3.14,
-      "alt_25": 2.2,
-      "ust_25": 1.36
+      "alt_25": 2.17,
+      "ust_25": 1.38
     }
   },
   {
@@ -62,11 +62,11 @@
     "ev_sahibi": "Orlando City",
     "deplasman": "Cincinnati",
     "oranlar": {
-      "ms_1": 2.19,
-      "ms_x": 3.53,
-      "ms_2": 2.24,
-      "alt_25": 2.88,
-      "ust_25": 1.19
+      "ms_1": 2.14,
+      "ms_x": 3.51,
+      "ms_2": 2.29,
+      "alt_25": 2.83,
+      "ust_25": 1.2
     }
   },
   {
@@ -76,11 +76,11 @@
     "ev_sahibi": "Sao Paulo",
     "deplasman": "Fluminense",
     "oranlar": {
-      "ms_1": 2.15,
-      "ms_x": 2.86,
-      "ms_2": 2.68,
-      "alt_25": 1.53,
-      "ust_25": 1.88
+      "ms_1": 2.2,
+      "ms_x": 2.83,
+      "ms_2": 2.64,
+      "alt_25": 1.5,
+      "ust_25": 1.92
     }
   },
   {
@@ -90,11 +90,11 @@
     "ev_sahibi": "Vasco Da Gama",
     "deplasman": "Internacional",
     "oranlar": {
-      "ms_1": 1.42,
-      "ms_x": 3.7,
-      "ms_2": 4.7,
-      "alt_25": 1.82,
-      "ust_25": 1.56
+      "ms_1": 1.4,
+      "ms_x": 3.8,
+      "ms_2": 4.8,
+      "alt_25": 1.89,
+      "ust_25": 1.52
     }
   },
   {
@@ -104,25 +104,11 @@
     "ev_sahibi": "Vitoria Bahia",
     "deplasman": "Bragantino",
     "oranlar": {
-      "ms_1": 2.36,
+      "ms_1": 2.42,
       "ms_x": 3.07,
-      "ms_2": 2.28,
+      "ms_2": 2.23,
       "alt_25": 1.78,
       "ust_25": 1.6
-    }
-  },
-  {
-    "mac_id": "MK-13721",
-    "lig": "Slovenya Kupa Son 16 Turu",
-    "saat": "15:30",
-    "ev_sahibi": "Dob",
-    "deplasman": "Bistrica",
-    "oranlar": {
-      "ms_1": 3.94,
-      "ms_x": 3.36,
-      "ms_2": 1.47,
-      "alt_25": 1.65,
-      "ust_25": 1.75
     }
   },
   {
@@ -132,11 +118,25 @@
     "ev_sahibi": "Beltinci",
     "deplasman": "Celje",
     "oranlar": {
-      "ms_1": 5.79,
-      "ms_x": 4.22,
-      "ms_2": 1.21,
+      "ms_1": 6.32,
+      "ms_x": 4.51,
+      "ms_2": 1.17,
       "alt_25": 1.65,
       "ust_25": 1.75
+    }
+  },
+  {
+    "mac_id": "MK-13721",
+    "lig": "Slovenya Kupa Son 16 Turu",
+    "saat": "15:30",
+    "ev_sahibi": "Dob",
+    "deplasman": "Bistrica",
+    "oranlar": {
+      "ms_1": 3.33,
+      "ms_x": 3.24,
+      "ms_2": 1.6,
+      "alt_25": 1.84,
+      "ust_25": 1.45
     }
   },
   {
@@ -146,9 +146,9 @@
     "ev_sahibi": "Lokomotiva Zvo",
     "deplasman": "Fk Kosice",
     "oranlar": {
-      "ms_1": 7.01,
-      "ms_x": 4.98,
-      "ms_2": 1.13,
+      "ms_1": 7.78,
+      "ms_x": 5.27,
+      "ms_2": 1.09,
       "alt_25": 1.65,
       "ust_25": 1.75
     }
@@ -160,9 +160,9 @@
     "ev_sahibi": "Amiens",
     "deplasman": "Caen",
     "oranlar": {
-      "ms_1": 1.95,
-      "ms_x": 2.89,
-      "ms_2": 2.67,
+      "ms_1": 1.91,
+      "ms_x": 2.83,
+      "ms_2": 2.82,
       "alt_25": 1.59,
       "ust_25": 1.66
     }
@@ -174,9 +174,9 @@
     "ev_sahibi": "Fredericia",
     "deplasman": "Hillerod",
     "oranlar": {
-      "ms_1": 1.17,
-      "ms_x": 4.67,
-      "ms_2": 6.17,
+      "ms_1": 1.12,
+      "ms_x": 4.98,
+      "ms_2": 7.03,
       "alt_25": 2.37,
       "ust_25": 1.23
     }
@@ -188,39 +188,11 @@
     "ev_sahibi": "Malavan Fc",
     "deplasman": "Gol Gohar Sirja",
     "oranlar": {
-      "ms_1": 2.36,
-      "ms_x": 2.42,
-      "ms_2": 2.52,
-      "alt_25": 1.15,
-      "ust_25": 2.77
-    }
-  },
-  {
-    "mac_id": "MK-21078",
-    "lig": "Mısır Kupa Son 16 Turu",
-    "saat": "18:00",
-    "ev_sahibi": "Masryal Masry",
-    "deplasman": "Asyut Petroleum",
-    "oranlar": {
-      "ms_1": 1.53,
-      "ms_x": 2.98,
-      "ms_2": 4.11,
-      "alt_25": 1.35,
-      "ust_25": 2.02
-    }
-  },
-  {
-    "mac_id": "MK-21076",
-    "lig": "Mısır Kupa Son 16 Turu",
-    "saat": "18:00",
-    "ev_sahibi": "Al Mokawloon A",
-    "deplasman": "Al Qanah",
-    "oranlar": {
-      "ms_1": 1.43,
-      "ms_x": 3.25,
-      "ms_2": 4.42,
-      "alt_25": 1.45,
-      "ust_25": 1.84
+      "ms_1": 2.63,
+      "ms_x": 2.4,
+      "ms_2": 2.29,
+      "alt_25": 1.16,
+      "ust_25": 2.65
     }
   },
   {
@@ -230,11 +202,53 @@
     "ev_sahibi": "Zed",
     "deplasman": "Smouha",
     "oranlar": {
-      "ms_1": 2.25,
+      "ms_1": 2.26,
       "ms_x": 2.3,
-      "ms_2": 2.84,
+      "ms_2": 2.8,
       "alt_25": 1.65,
       "ust_25": 1.75
+    }
+  },
+  {
+    "mac_id": "MK-21076",
+    "lig": "Mısır Kupa Son 16 Turu",
+    "saat": "18:00",
+    "ev_sahibi": "Al Mokawloon A",
+    "deplasman": "Al Qanah",
+    "oranlar": {
+      "ms_1": 1.85,
+      "ms_x": 2.64,
+      "ms_2": 3.19,
+      "alt_25": 1.3,
+      "ust_25": 2.15
+    }
+  },
+  {
+    "mac_id": "MK-21078",
+    "lig": "Mısır Kupa Son 16 Turu",
+    "saat": "18:00",
+    "ev_sahibi": "Masryal Masry",
+    "deplasman": "Asyut Petroleum",
+    "oranlar": {
+      "ms_1": 1.41,
+      "ms_x": 3.16,
+      "ms_2": 4.88,
+      "alt_25": 1.37,
+      "ust_25": 1.98
+    }
+  },
+  {
+    "mac_id": "MK-06495",
+    "lig": "Cezayir 1.Lig",
+    "saat": "19:45",
+    "ev_sahibi": "Mc Alger",
+    "deplasman": "Olympique Akbou",
+    "oranlar": {
+      "ms_1": 1.26,
+      "ms_x": 3.44,
+      "ms_2": 6.79,
+      "alt_25": 1.32,
+      "ust_25": 2.1
     }
   },
   {
@@ -258,39 +272,11 @@
     "ev_sahibi": "Js Kabylie",
     "deplasman": "Usm Alger",
     "oranlar": {
-      "ms_1": 1.89,
-      "ms_x": 2.54,
-      "ms_2": 3.21,
+      "ms_1": 1.94,
+      "ms_x": 2.52,
+      "ms_2": 3.11,
       "alt_25": 1.28,
       "ust_25": 2.24
-    }
-  },
-  {
-    "mac_id": "MK-06495",
-    "lig": "Cezayir 1.Lig",
-    "saat": "19:45",
-    "ev_sahibi": "Mc Alger",
-    "deplasman": "Olympique Akbou",
-    "oranlar": {
-      "ms_1": 1.25,
-      "ms_x": 3.48,
-      "ms_2": 6.86,
-      "alt_25": 1.34,
-      "ust_25": 2.05
-    }
-  },
-  {
-    "mac_id": "MK-24485",
-    "lig": "AFC ASEAN Kulüpler Şampiyonası Grup B",
-    "saat": "15:30",
-    "ev_sahibi": "Cand",
-    "deplasman": "Johor Dt",
-    "oranlar": {
-      "ms_1": 3.65,
-      "ms_x": 3.33,
-      "ms_2": 1.52,
-      "alt_25": 1.93,
-      "ust_25": 1.4
     }
   },
   {
@@ -300,11 +286,25 @@
     "ev_sahibi": "Pkr Svay Rieng",
     "deplasman": "Port Fc",
     "oranlar": {
-      "ms_1": 2.07,
-      "ms_x": 3.04,
-      "ms_2": 2.37,
-      "alt_25": 1.86,
-      "ust_25": 1.44
+      "ms_1": 1.87,
+      "ms_x": 3.35,
+      "ms_2": 2.51,
+      "alt_25": 2.31,
+      "ust_25": 1.25
+    }
+  },
+  {
+    "mac_id": "MK-24485",
+    "lig": "AFC ASEAN Kulüpler Şampiyonası Grup B",
+    "saat": "15:30",
+    "ev_sahibi": "Cand",
+    "deplasman": "Johor Dt",
+    "oranlar": {
+      "ms_1": 3.76,
+      "ms_x": 3.44,
+      "ms_2": 1.47,
+      "alt_25": 2.02,
+      "ust_25": 1.35
     }
   },
   {
@@ -314,9 +314,9 @@
     "ev_sahibi": "Al Ahli",
     "deplasman": "Al Shamal",
     "oranlar": {
-      "ms_1": 2.69,
-      "ms_x": 3.32,
-      "ms_2": 1.79,
+      "ms_1": 2.38,
+      "ms_x": 3.24,
+      "ms_2": 1.99,
       "alt_25": 2.26,
       "ust_25": 1.27
     }
@@ -328,25 +328,11 @@
     "ev_sahibi": "Progreso",
     "deplasman": "Torque",
     "oranlar": {
-      "ms_1": 4.88,
-      "ms_x": 3.8,
-      "ms_2": 1.31,
-      "alt_25": 1.96,
-      "ust_25": 1.38
-    }
-  },
-  {
-    "mac_id": "MK-06776",
-    "lig": "Uruguay Premier Lig Clausura",
-    "saat": "22:30",
-    "ev_sahibi": "Boston River",
-    "deplasman": "Deportivo Maldo",
-    "oranlar": {
-      "ms_1": 3.57,
-      "ms_x": 3.14,
-      "ms_2": 1.58,
-      "alt_25": 1.65,
-      "ust_25": 1.6
+      "ms_1": 4.71,
+      "ms_x": 3.72,
+      "ms_2": 1.33,
+      "alt_25": 1.86,
+      "ust_25": 1.44
     }
   },
   {
@@ -356,11 +342,25 @@
     "ev_sahibi": "Penarol",
     "deplasman": "Cerro Largo",
     "oranlar": {
-      "ms_1": 1.26,
-      "ms_x": 3.67,
-      "ms_2": 6.09,
-      "alt_25": 1.52,
-      "ust_25": 1.74
+      "ms_1": 1.22,
+      "ms_x": 3.81,
+      "ms_2": 6.63,
+      "alt_25": 1.54,
+      "ust_25": 1.72
+    }
+  },
+  {
+    "mac_id": "MK-06776",
+    "lig": "Uruguay Premier Lig Clausura",
+    "saat": "22:30",
+    "ev_sahibi": "Boston River",
+    "deplasman": "Deportivo Maldo",
+    "oranlar": {
+      "ms_1": 3.04,
+      "ms_x": 3.01,
+      "ms_2": 1.74,
+      "alt_25": 1.65,
+      "ust_25": 1.6
     }
   },
   {
@@ -370,11 +370,11 @@
     "ev_sahibi": "Union Magdalen(1)",
     "deplasman": "(1)Centauros",
     "oranlar": {
-      "ms_1": 1.4,
-      "ms_x": 3.22,
-      "ms_2": 4.89,
-      "alt_25": 1.54,
-      "ust_25": 1.71
+      "ms_1": 1.27,
+      "ms_x": 3.65,
+      "ms_2": 5.79,
+      "alt_25": 1.57,
+      "ust_25": 1.67
     }
   },
   {
@@ -384,9 +384,23 @@
     "ev_sahibi": "Independiente(0)",
     "deplasman": "(2)Envigado",
     "oranlar": {
-      "ms_1": 2.61,
-      "ms_x": 2.5,
-      "ms_2": 2.22,
+      "ms_1": 2.55,
+      "ms_x": 2.6,
+      "ms_2": 2.19,
+      "alt_25": 1.3,
+      "ust_25": 2.15
+    }
+  },
+  {
+    "mac_id": "MK-13433",
+    "lig": "Kolombiya Primera B Clausura Quadrangular Grup B",
+    "saat": "03:45",
+    "ev_sahibi": "Real Cundinama(0)",
+    "deplasman": "(2)Quindio",
+    "oranlar": {
+      "ms_1": 2.7,
+      "ms_x": 2.58,
+      "ms_2": 2.11,
       "alt_25": 1.3,
       "ust_25": 2.15
     }
@@ -398,53 +412,11 @@
     "ev_sahibi": "Real Cartagena(0)",
     "deplasman": "(0)Tigres Fc",
     "oranlar": {
-      "ms_1": 1.21,
-      "ms_x": 3.78,
-      "ms_2": 6.85,
+      "ms_1": 1.2,
+      "ms_x": 3.89,
+      "ms_2": 6.97,
       "alt_25": 1.6,
       "ust_25": 1.65
-    }
-  },
-  {
-    "mac_id": "MK-13433",
-    "lig": "Kolombiya Primera B Clausura Quadrangular Grup B",
-    "saat": "03:45",
-    "ev_sahibi": "Real Cundinama(0)",
-    "deplasman": "(2)Quindio",
-    "oranlar": {
-      "ms_1": 2.67,
-      "ms_x": 2.51,
-      "ms_2": 2.17,
-      "alt_25": 1.32,
-      "ust_25": 2.11
-    }
-  },
-  {
-    "mac_id": "MK-07895",
-    "lig": "Avustralya Championship Grup D",
-    "saat": "11:30",
-    "ev_sahibi": "Queensland Lio",
-    "deplasman": "Wollongong Wolv",
-    "oranlar": {
-      "ms_1": 1.44,
-      "ms_x": 3.75,
-      "ms_2": 3.68,
-      "alt_25": 2.32,
-      "ust_25": 1.25
-    }
-  },
-  {
-    "mac_id": "MK-07703",
-    "lig": "Japonya WE Ligi Kadınlar",
-    "saat": "12:00",
-    "ev_sahibi": "Omiya (K)",
-    "deplasman": "Inac Kobe Leone",
-    "oranlar": {
-      "ms_1": 3.69,
-      "ms_x": 3.13,
-      "ms_2": 1.55,
-      "alt_25": 1.67,
-      "ust_25": 1.57
     }
   },
   {
@@ -454,25 +426,11 @@
     "ev_sahibi": "Celta De Vigo",
     "deplasman": "Espanyol (K)",
     "oranlar": {
-      "ms_1": 6.69,
-      "ms_x": 4.55,
-      "ms_2": 1.15,
+      "ms_1": 6.52,
+      "ms_x": 4.44,
+      "ms_2": 1.17,
       "alt_25": 1.65,
       "ust_25": 1.75
-    }
-  },
-  {
-    "mac_id": "MK-71364",
-    "lig": "Bulgaristan 2.Lig",
-    "saat": "18:00",
-    "ev_sahibi": "Dobrudzha 1919",
-    "deplasman": "Fratria",
-    "oranlar": {
-      "ms_1": 3.34,
-      "ms_x": 2.96,
-      "ms_2": 1.68,
-      "alt_25": 1.6,
-      "ust_25": 1.65
     }
   },
   {
@@ -482,11 +440,67 @@
     "ev_sahibi": "Dobrudzha 1919",
     "deplasman": "Fratria",
     "oranlar": {
-      "ms_1": 3.24,
-      "ms_x": 3.46,
-      "ms_2": 1.57,
-      "alt_25": 1.66,
-      "ust_25": 1.59
+      "ms_1": 3.54,
+      "ms_x": 3.37,
+      "ms_2": 1.53,
+      "alt_25": 1.67,
+      "ust_25": 1.57
+    }
+  },
+  {
+    "mac_id": "MK-18396",
+    "lig": "Mısır 2. Lig",
+    "saat": "15:30",
+    "ev_sahibi": "Baladiyyat",
+    "deplasman": "Haras El Hodood",
+    "oranlar": {
+      "ms_1": 2.54,
+      "ms_x": 2.4,
+      "ms_2": 2.36,
+      "alt_25": 1.31,
+      "ust_25": 2.13
+    }
+  },
+  {
+    "mac_id": "MK-18407",
+    "lig": "Mısır 2. Lig",
+    "saat": "15:30",
+    "ev_sahibi": "La Viena Fc",
+    "deplasman": "El Saka El Hadi",
+    "oranlar": {
+      "ms_1": 3.02,
+      "ms_x": 2.23,
+      "ms_2": 2.2,
+      "alt_25": 1.65,
+      "ust_25": 1.75
+    }
+  },
+  {
+    "mac_id": "MK-18403",
+    "lig": "Mısır 2. Lig",
+    "saat": "15:30",
+    "ev_sahibi": "El Daklyeh",
+    "deplasman": "Ismaily",
+    "oranlar": {
+      "ms_1": 2.6,
+      "ms_x": 2.28,
+      "ms_2": 2.44,
+      "alt_25": 1.65,
+      "ust_25": 1.75
+    }
+  },
+  {
+    "mac_id": "MK-15681",
+    "lig": "Mısır 2. Lig",
+    "saat": "15:30",
+    "ev_sahibi": "Pharco",
+    "deplasman": "El Harby",
+    "oranlar": {
+      "ms_1": 1.66,
+      "ms_x": 2.75,
+      "ms_2": 3.76,
+      "alt_25": 1.29,
+      "ust_25": 2.17
     }
   },
   {
@@ -504,59 +518,17 @@
     }
   },
   {
-    "mac_id": "MK-18407",
-    "lig": "Mısır 2. Lig",
-    "saat": "15:30",
-    "ev_sahibi": "La Viena Fc",
-    "deplasman": "El Saka El Hadi",
+    "mac_id": "MK-05239",
+    "lig": "Irak Premier Lig",
+    "saat": "16:45",
+    "ev_sahibi": "Diala",
+    "deplasman": "Al Kahraba",
     "oranlar": {
-      "ms_1": 2.32,
-      "ms_x": 2.35,
-      "ms_2": 2.65,
-      "alt_25": 1.65,
-      "ust_25": 1.75
-    }
-  },
-  {
-    "mac_id": "MK-18396",
-    "lig": "Mısır 2. Lig",
-    "saat": "15:30",
-    "ev_sahibi": "Baladiyyat",
-    "deplasman": "Haras El Hodood",
-    "oranlar": {
-      "ms_1": 2.47,
-      "ms_x": 2.53,
-      "ms_2": 2.3,
-      "alt_25": 1.38,
-      "ust_25": 1.97
-    }
-  },
-  {
-    "mac_id": "MK-15681",
-    "lig": "Mısır 2. Lig",
-    "saat": "15:30",
-    "ev_sahibi": "Pharco",
-    "deplasman": "El Harby",
-    "oranlar": {
-      "ms_1": 1.7,
-      "ms_x": 2.76,
-      "ms_2": 3.54,
-      "alt_25": 1.42,
-      "ust_25": 1.88
-    }
-  },
-  {
-    "mac_id": "MK-18403",
-    "lig": "Mısır 2. Lig",
-    "saat": "15:30",
-    "ev_sahibi": "El Daklyeh",
-    "deplasman": "Ismaily",
-    "oranlar": {
-      "ms_1": 3.08,
-      "ms_x": 2.5,
-      "ms_2": 1.97,
-      "alt_25": 1.65,
-      "ust_25": 1.75
+      "ms_1": 2.91,
+      "ms_x": 2.59,
+      "ms_2": 1.99,
+      "alt_25": 1.31,
+      "ust_25": 2.12
     }
   },
   {
@@ -566,11 +538,11 @@
     "ev_sahibi": "Al Gharraf",
     "deplasman": "Al Jawiya",
     "oranlar": {
-      "ms_1": 2.93,
-      "ms_x": 2.48,
-      "ms_2": 2.04,
-      "alt_25": 1.31,
-      "ust_25": 2.13
+      "ms_1": 3.37,
+      "ms_x": 2.13,
+      "ms_2": 2.15,
+      "alt_25": 1.33,
+      "ust_25": 2.08
     }
   },
   {
@@ -595,8 +567,8 @@
     "deplasman": "River Plate (K)",
     "oranlar": {
       "ms_1": 1.95,
-      "ms_x": 2.77,
-      "ms_2": 2.78,
+      "ms_x": 2.79,
+      "ms_2": 2.76,
       "alt_25": 1.47,
       "ust_25": 1.81
     }
@@ -608,11 +580,39 @@
     "ev_sahibi": "Termez Surkhon",
     "deplasman": "Andijon",
     "oranlar": {
-      "ms_1": 2.79,
-      "ms_x": 2.72,
-      "ms_2": 1.96,
-      "alt_25": 1.39,
-      "ust_25": 1.94
+      "ms_1": 2.74,
+      "ms_x": 2.83,
+      "ms_2": 1.94,
+      "alt_25": 1.54,
+      "ust_25": 1.73
+    }
+  },
+  {
+    "mac_id": "MK-63609",
+    "lig": "Uganda Premier Lig",
+    "saat": "16:00",
+    "ev_sahibi": "Entebbe Uppc",
+    "deplasman": "Kataka",
+    "oranlar": {
+      "ms_1": 1.07,
+      "ms_x": 5.19,
+      "ms_2": 9.46,
+      "alt_25": 2.01,
+      "ust_25": 1.36
+    }
+  },
+  {
+    "mac_id": "MK-51383",
+    "lig": "Uganda Premier Lig",
+    "saat": "16:00",
+    "ev_sahibi": "Kigezi Home Bo",
+    "deplasman": "Express",
+    "oranlar": {
+      "ms_1": 3.07,
+      "ms_x": 2.84,
+      "ms_2": 1.8,
+      "alt_25": 1.44,
+      "ust_25": 1.86
     }
   },
   {
@@ -630,45 +630,17 @@
     }
   },
   {
-    "mac_id": "MK-63609",
-    "lig": "Uganda Premier Lig",
-    "saat": "16:00",
-    "ev_sahibi": "Entebbe Uppc",
-    "deplasman": "Kataka",
-    "oranlar": {
-      "ms_1": 1.07,
-      "ms_x": 5.21,
-      "ms_2": 9.67,
-      "alt_25": 2.0,
-      "ust_25": 1.36
-    }
-  },
-  {
-    "mac_id": "MK-51383",
-    "lig": "Uganda Premier Lig",
-    "saat": "16:00",
-    "ev_sahibi": "Kigezi Home Bo",
-    "deplasman": "Express",
-    "oranlar": {
-      "ms_1": 3.65,
-      "ms_x": 2.96,
-      "ms_2": 1.61,
-      "alt_25": 1.46,
-      "ust_25": 1.82
-    }
-  },
-  {
     "mac_id": "MK-64630",
     "lig": "Venezuela Kupa Çeyrek Final",
     "saat": "01:30",
     "ev_sahibi": "Deportivo La G",
     "deplasman": "Academia Anzoat",
     "oranlar": {
-      "ms_1": 1.17,
-      "ms_x": 4.18,
-      "ms_2": 7.01,
-      "alt_25": 1.65,
-      "ust_25": 1.75
+      "ms_1": 1.21,
+      "ms_x": 4.22,
+      "ms_2": 6.04,
+      "alt_25": 1.84,
+      "ust_25": 1.45
     }
   },
   {
@@ -706,25 +678,11 @@
     "ev_sahibi": "Mufulira Wande",
     "deplasman": "Kabwe Warriors",
     "oranlar": {
-      "ms_1": 2.63,
-      "ms_x": 2.42,
-      "ms_2": 2.26,
+      "ms_1": 2.68,
+      "ms_x": 2.34,
+      "ms_2": 2.3,
       "alt_25": 1.65,
       "ust_25": 1.75
-    }
-  },
-  {
-    "mac_id": "MK-63802",
-    "lig": "Ürdün Kupa Son 16 Turu",
-    "saat": "19:00",
-    "ev_sahibi": "Al Jazeera",
-    "deplasman": "Hay Al-Amir Has",
-    "oranlar": {
-      "ms_1": 1.11,
-      "ms_x": 4.86,
-      "ms_2": 7.82,
-      "alt_25": 1.94,
-      "ust_25": 1.39
     }
   },
   {
@@ -734,11 +692,39 @@
     "ev_sahibi": "Al Salt",
     "deplasman": "Al Yarmouk",
     "oranlar": {
-      "ms_1": 1.31,
-      "ms_x": 3.48,
-      "ms_2": 5.53,
-      "alt_25": 1.54,
-      "ust_25": 1.71
+      "ms_1": 1.29,
+      "ms_x": 3.62,
+      "ms_2": 5.46,
+      "alt_25": 1.52,
+      "ust_25": 1.74
+    }
+  },
+  {
+    "mac_id": "MK-63802",
+    "lig": "Ürdün Kupa Son 16 Turu",
+    "saat": "19:00",
+    "ev_sahibi": "Al Jazeera",
+    "deplasman": "Hay Al-Amir Has",
+    "oranlar": {
+      "ms_1": 1.06,
+      "ms_x": 5.89,
+      "ms_2": 8.65,
+      "alt_25": 1.94,
+      "ust_25": 1.39
+    }
+  },
+  {
+    "mac_id": "MK-63759",
+    "lig": "İsveç Kadınlar Play-off 1/2",
+    "saat": "20:00",
+    "ev_sahibi": "Kif Örebro (K)",
+    "deplasman": "Rosengard (K)",
+    "oranlar": {
+      "ms_1": 4.78,
+      "ms_x": 3.83,
+      "ms_2": 1.31,
+      "alt_25": 1.99,
+      "ust_25": 1.37
     }
   }
 ]
