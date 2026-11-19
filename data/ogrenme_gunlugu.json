@@ -278,5 +278,21 @@
     "sonuc": "KAYBETTİ",
     "hata_koku": "Ev Sahibi Erken Gol ve İç Saha Baskısı Hafife Alındı",
     "alinan_ders": "İç sahada erken gol bulan takımların skoru koruma direnci yükseltildi, ev sahibi avantajı artırıldı."
+  },
+  {
+    "mac": "Queensland Lions vs Wollongong Wolves",
+    "tahmin": "MS 1",
+    "gerceklesen": "MS X",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Genel Güç Dengesi ve Beklenmeyen Oyun Akışı",
+    "alinan_ders": "Form ve dinlenme parametreleri dengelendi."
+  },
+  {
+    "mac": "Omiya Ardija (K) vs INAC Kobe (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "2.5 Üst",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
   }
 ]
