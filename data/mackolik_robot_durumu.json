@@ -1,0 +1,89 @@
+{
+  "aktif_bahisler": [
+    {
+      "bet_id": 9,
+      "mac": "Queensland Lio vs Wollongong Wolv",
+      "lig": "Avustralya Championship Grup D",
+      "saat": "11:30",
+      "secim": "MS 1",
+      "oran": 1.44,
+      "olasilik": 40.7,
+      "guven": 55,
+      "ev_alpha": -41.39,
+      "yatirilan": 150.0
+    },
+    {
+      "bet_id": 10,
+      "mac": "Omiya (K) vs Inac Kobe Leone",
+      "lig": "Japonya WE Ligi Kadınlar",
+      "saat": "12:00",
+      "secim": "2.5 Alt",
+      "oran": 1.67,
+      "olasilik": 55.0,
+      "guven": 60,
+      "ev_alpha": -8.15,
+      "yatirilan": 150.0
+    },
+    {
+      "bet_id": 11,
+      "mac": "Lokomotiva Zvo vs Fk Kosice",
+      "lig": "Slovakya Kupa Son 16 Turu",
+      "saat": "15:00",
+      "secim": "2.5 Alt",
+      "oran": 1.65,
+      "olasilik": 55.0,
+      "guven": 60,
+      "ev_alpha": -9.25,
+      "yatirilan": 150.0
+    },
+    {
+      "bet_id": 12,
+      "mac": "Pkr Svay Rieng vs Port Fc",
+      "lig": "AFC ASEAN Kulüpler Şampiyonası Grup B",
+      "saat": "15:00",
+      "secim": "2.5 Alt",
+      "oran": 1.86,
+      "olasilik": 55.0,
+      "guven": 60,
+      "ev_alpha": 2.3,
+      "yatirilan": 120.0
+    },
+    {
+      "bet_id": 13,
+      "mac": "Dob vs Bistrica",
+      "lig": "Slovenya Kupa Son 16 Turu",
+      "saat": "15:30",
+      "secim": "2.5 Alt",
+      "oran": 1.65,
+      "olasilik": 55.0,
+      "guven": 60,
+      "ev_alpha": -9.25,
+      "yatirilan": 150.0
+    }
+  ],
+  "son_ogrenme": [
+    {
+      "mac": "Mbarara City vs Lugazi Municipal",
+      "tahmin": "MS X",
+      "gercek": "MS 1",
+      "kök_neden": "Ev Sahibi Erken Gol ve İç Saha Baskısı Hafife Alındı",
+      "ders": "İç sahada erken gol bulan takımların skoru koruma direnci yükseltildi, ev sahibi avantajı artırıldı."
+    },
+    {
+      "mac": "Al Adalah vs Al Orubah",
+      "tahmin": "MS X",
+      "gercek": "MS 2",
+      "kök_neden": "Deplasman Takımının Geçiş Hücumu ve Kadro Kalitesi Hafife Alındı",
+      "ders": "Deplasman ekiplerinin geçiş hücumu ve bireysel kalite farkı ağırlığı artırıldı."
+    },
+    {
+      "mac": "Ranchers Bees vs Doma United",
+      "tahmin": "MS X",
+      "gercek": "MS 1",
+      "kök_neden": "Ev Sahibi Erken Gol ve İç Saha Baskısı Hafife Alındı",
+      "ders": "İç sahada erken gol bulan takımların skoru koruma direnci yükseltildi, ev sahibi avantajı artırıldı."
+    }
+  ],
+  "son_guncelleme": "2026-11-19 08:09:07",
+  "toplam_secilen": 5
+}

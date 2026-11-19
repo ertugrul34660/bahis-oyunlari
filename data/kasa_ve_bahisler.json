@@ -1,0 +1,332 @@
+{
+  "baslangic_kasa": 10000.0,
+  "guncel_kasa": 12507.59,
+  "toplam_bahis_sayisi": 32,
+  "kazanan_bahis_sayisi": 19,
+  "kaybeden_bahis_sayisi": 13,
+  "basari_orani_yuzde": 59.4,
+  "net_kar_zarar": 2507.59,
+  "roi_yuzde": 25.1,
+  "bahis_gecmisi": [
+    {
+      "bet_id": "BET-0001",
+      "mac": "CD Badajoz vs CD Tenerife",
+      "secim": "2.5 Alt",
+      "oran": 1.55,
+      "guven": 60,
+      "yatirilan_tutar": 210.0,
+      "durum": "KAZANDI",
+      "kazanc": 115.5
+    },
+    {
+      "bet_id": "BET-0002",
+      "mac": "CD Don Benito vs Real Zaragoza",
+      "secim": "2.5 Alt",
+      "oran": 1.6,
+      "guven": 60,
+      "yatirilan_tutar": 212.43,
+      "durum": "KAYBETTİ",
+      "kazanc": -212.43
+    },
+    {
+      "bet_id": "BET-0003",
+      "mac": "Real Madrid vs Alaves",
+      "secim": "MS 1",
+      "oran": 1.25,
+      "guven": 89,
+      "yatirilan_tutar": 308.48,
+      "durum": "KAZANDI",
+      "kazanc": 77.12
+    },
+    {
+      "bet_id": "BET-0004",
+      "mac": "Juventus (K) vs Oh Leuven (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.31,
+      "guven": 60,
+      "yatirilan_tutar": 209.58,
+      "durum": "KAYBETTİ",
+      "kazanc": -209.58
+    },
+    {
+      "bet_id": "BET-0005",
+      "mac": "Hacken (K) vs Man City (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.83,
+      "guven": 60,
+      "yatirilan_tutar": 209.58,
+      "durum": "KAYBETTİ",
+      "kazanc": -209.58
+    },
+    {
+      "bet_id": "BET-0006",
+      "mac": "Chelsea (K) vs Psg (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.39,
+      "guven": 60,
+      "yatirilan_tutar": 209.58,
+      "durum": "KAYBETTİ",
+      "kazanc": -209.58
+    },
+    {
+      "bet_id": "BET-0007",
+      "mac": "Cd Badajoz vs Tenerife",
+      "secim": "2.5 Alt",
+      "oran": 1.51,
+      "guven": 60,
+      "yatirilan_tutar": 209.58,
+      "durum": "KAZANDI",
+      "kazanc": 106.89
+    },
+    {
+      "bet_id": "BET-0008",
+      "mac": "Reddis vs Barakaldo",
+      "secim": "MS X",
+      "oran": 2.83,
+      "guven": 55,
+      "yatirilan_tutar": 192.12,
+      "durum": "KAZANDI",
+      "kazanc": 351.58
+    },
+    {
+      "bet_id": "BET-0009",
+      "mac": "Alcoyano vs Mallorca",
+      "secim": "2.5 Alt",
+      "oran": 1.61,
+      "guven": 60,
+      "yatirilan_tutar": 209.58,
+      "durum": "KAZANDI",
+      "kazanc": 127.84
+    },
+    {
+      "bet_id": "BET-0010",
+      "mac": "Deportiva Mine vs Cartagena",
+      "secim": "MS X",
+      "oran": 2.63,
+      "guven": 55,
+      "yatirilan_tutar": 192.12,
+      "durum": "KAZANDI",
+      "kazanc": 313.16
+    },
+    {
+      "bet_id": "BET-0011",
+      "mac": "Portugalete vs Union Irun",
+      "secim": "MS X",
+      "oran": 2.75,
+      "guven": 55,
+      "yatirilan_tutar": 192.12,
+      "durum": "KAZANDI",
+      "kazanc": 336.21
+    },
+    {
+      "bet_id": "BET-0012",
+      "mac": "Juventus (K) vs Oh Leuven (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.31,
+      "guven": 60,
+      "yatirilan_tutar": 222.33,
+      "durum": "KAYBETTİ",
+      "kazanc": -222.33
+    },
+    {
+      "bet_id": "BET-0013",
+      "mac": "Hacken (K) vs Man City (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.83,
+      "guven": 60,
+      "yatirilan_tutar": 222.33,
+      "durum": "KAYBETTİ",
+      "kazanc": -222.33
+    },
+    {
+      "bet_id": "BET-0014",
+      "mac": "Chelsea (K) vs Psg (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.39,
+      "guven": 60,
+      "yatirilan_tutar": 222.33,
+      "durum": "KAYBETTİ",
+      "kazanc": -222.33
+    },
+    {
+      "bet_id": "BET-0015",
+      "mac": "Portugalete vs Union Irun",
+      "secim": "MS X",
+      "oran": 2.75,
+      "guven": 55,
+      "yatirilan_tutar": 203.8,
+      "durum": "KAZANDI",
+      "kazanc": 356.65
+    },
+    {
+      "bet_id": "BET-0016",
+      "mac": "Deportiva Mine vs Cartagena",
+      "secim": "MS X",
+      "oran": 2.63,
+      "guven": 55,
+      "yatirilan_tutar": 203.8,
+      "durum": "KAZANDI",
+      "kazanc": 332.19
+    },
+    {
+      "bet_id": "BET-0017",
+      "mac": "Reddis vs Barakaldo",
+      "secim": "MS X",
+      "oran": 2.83,
+      "guven": 55,
+      "yatirilan_tutar": 203.8,
+      "durum": "KAZANDI",
+      "kazanc": 372.95
+    },
+    {
+      "bet_id": "BET-0018",
+      "mac": "Alcoyano vs Mallorca",
+      "secim": "2.5 Alt",
+      "oran": 1.61,
+      "guven": 60,
+      "yatirilan_tutar": 222.33,
+      "durum": "KAZANDI",
+      "kazanc": 135.62
+    },
+    {
+      "bet_id": "BET-0019",
+      "mac": "Utebo vs Sabadell",
+      "secim": "2.5 Alt",
+      "oran": 1.55,
+      "guven": 60,
+      "yatirilan_tutar": 222.33,
+      "durum": "KAZANDI",
+      "kazanc": 122.28
+    },
+    {
+      "bet_id": "BET-0020",
+      "mac": "Juventus (K) vs Oh Leuven (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.31,
+      "guven": 60,
+      "yatirilan_tutar": 236.04,
+      "durum": "KAYBETTİ",
+      "kazanc": -236.04
+    },
+    {
+      "bet_id": "BET-0021",
+      "mac": "Hacken (K) vs Man City (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.83,
+      "guven": 60,
+      "yatirilan_tutar": 236.04,
+      "durum": "KAYBETTİ",
+      "kazanc": -236.04
+    },
+    {
+      "bet_id": "BET-0022",
+      "mac": "Chelsea (K) vs Psg (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.39,
+      "guven": 60,
+      "yatirilan_tutar": 236.04,
+      "durum": "KAYBETTİ",
+      "kazanc": -236.04
+    },
+    {
+      "bet_id": "BET-0023",
+      "mac": "Portugalete vs Union Irun",
+      "secim": "MS X",
+      "oran": 2.75,
+      "guven": 55,
+      "yatirilan_tutar": 216.37,
+      "durum": "KAZANDI",
+      "kazanc": 378.65
+    },
+    {
+      "bet_id": "BET-0024",
+      "mac": "Deportiva Mine vs Cartagena",
+      "secim": "MS X",
+      "oran": 2.63,
+      "guven": 55,
+      "yatirilan_tutar": 216.37,
+      "durum": "KAZANDI",
+      "kazanc": 352.68
+    },
+    {
+      "bet_id": "BET-0025",
+      "mac": "Juventus (K) vs Oh Leuven (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.31,
+      "guven": 60,
+      "yatirilan_tutar": 563.15,
+      "durum": "KAYBETTİ",
+      "kazanc": -563.15
+    },
+    {
+      "bet_id": "BET-0026",
+      "mac": "Hacken (K) vs Man City (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.83,
+      "guven": 60,
+      "yatirilan_tutar": 563.15,
+      "durum": "KAYBETTİ",
+      "kazanc": -563.15
+    },
+    {
+      "bet_id": "BET-0027",
+      "mac": "Chelsea (K) vs Psg (K)",
+      "secim": "2.5 Alt",
+      "oran": 2.39,
+      "guven": 60,
+      "yatirilan_tutar": 563.15,
+      "durum": "KAYBETTİ",
+      "kazanc": -563.15
+    },
+    {
+      "bet_id": "BET-0028",
+      "mac": "Portugalete vs Union Irun",
+      "secim": "MS X",
+      "oran": 2.75,
+      "guven": 55,
+      "yatirilan_tutar": 563.15,
+      "durum": "KAZANDI",
+      "kazanc": 985.51
+    },
+    {
+      "bet_id": "BET-0029",
+      "mac": "Deportiva Mine vs Cartagena",
+      "secim": "MS X",
+      "oran": 2.63,
+      "guven": 55,
+      "yatirilan_tutar": 563.15,
+      "durum": "KAZANDI",
+      "kazanc": 917.93
+    },
+    {
+      "bet_id": "BET-0030",
+      "mac": "Alcoyano vs Mallorca",
+      "secim": "2.5 Alt",
+      "oran": 1.64,
+      "guven": 60,
+      "yatirilan_tutar": 0.0,
+      "durum": "KAZANDI",
+      "kazanc": 0.0
+    },
+    {
+      "bet_id": "BET-0031",
+      "mac": "Utebo vs Sabadell",
+      "secim": "2.5 Alt",
+      "oran": 1.55,
+      "guven": 60,
+      "yatirilan_tutar": 0.0,
+      "durum": "KAZANDI",
+      "kazanc": 0.0
+    },
+    {
+      "bet_id": "BET-0032",
+      "mac": "Reddis vs Barakaldo",
+      "secim": "MS X",
+      "oran": 2.83,
+      "guven": 55,
+      "yatirilan_tutar": 563.15,
+      "durum": "KAZANDI",
+      "kazanc": 1030.56
+    }
+  ]
+}

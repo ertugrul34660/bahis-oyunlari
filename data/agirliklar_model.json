@@ -1,0 +1,18 @@
+{
+  "versiyon": "1.0.0",
+  "son_guncelleme": "2026-11-18T15:09:00",
+  "toplam_ogrenme_adimi": 38,
+  "ogrenme_katsayisi_lr": 0.05,
+  "agirliklar": {
+    "kadro_kalitesi": 0.239,
+    "form_ve_puan": 0.362,
+    "fiziki_kondisyon_dinlenme": 0.158,
+    "seyahat_ve_yol_cezasi": 0.066,
+    "ev_sahibi_avantaji": 0.133,
+    "oran_deger_farki": 0.042
+  },
+  "ogrenilen_kurallar": [
+    "Kupa maçlarında üst lig takımları yüksek rotasyon yaparsa hücum gücü %35 düşer.",
+    "Seyahat mesafesi 1000 km'yi aşan takımlarda ilk yarı tempo düşüşü beklenir."
+  ]
+}

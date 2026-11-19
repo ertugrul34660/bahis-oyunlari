@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ertuğrul YZ - CD Badajoz vs Tenerife Derin Analiz</title>
+    <style>
+        :root {
+            --bg-color: #0B0F19;
+            --card-bg: #131B2E;
+            --accent-cyan: #00E5FF;
+            --accent-blue: #0077B6;
+            --text-primary: #FFFFFF;
+            --text-secondary: #94A3B8;
+            --green: #10B981;
+            --yellow: #F59E0B;
+            --red: #EF4444;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Segoe UI', system-ui, sans-serif; }
+        body { background-color: var(--bg-color); color: var(--text-primary); padding: 24px; min-height: 100vh; }
+        .container { max-width: 1000px; margin: 0 auto; }
+        .header { display: flex; align-items: center; justify-content: space-between; border-bottom: 2px solid var(--accent-blue); padding-bottom: 16px; margin-bottom: 24px; }
+        .logo-area { display: flex; align-items: center; gap: 12px; }
+        .logo-area img { width: 44px; height: 44px; }
+        .logo-title { font-size: 22px; font-weight: 800; letter-spacing: 1px; color: var(--accent-cyan); text-transform: uppercase; }
+        .badge { background: rgba(0, 229, 255, 0.15); color: var(--accent-cyan); border: 1px solid var(--accent-cyan); padding: 4px 12px; border-radius: 20px; font-size: 13px; font-weight: 600; }
+        
+        .match-banner { background: linear-gradient(135deg, #131B2E, #1E293B); border: 1px solid rgba(0, 229, 255, 0.3); border-radius: 16px; padding: 24px; text-align: center; margin-bottom: 24px; box-shadow: 0 8px 24px rgba(0,0,0,0.5); }
+        .league-title { color: var(--accent-cyan); font-size: 14px; text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 8px; font-weight: 600; }
+        .teams { display: flex; justify-content: space-around; align-items: center; margin: 16px 0; }
+        .team-box { flex: 1; }
+        .team-name { font-size: 28px; font-weight: 800; }
+        .team-rank { color: var(--text-secondary); font-size: 14px; margin-top: 4px; }
+        .vs { font-size: 22px; font-weight: 900; color: var(--accent-cyan); padding: 0 16px; }
+        
+        .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px; }
+        .card { background: var(--card-bg); border-radius: 14px; padding: 20px; border: 1px solid rgba(255,255,255,0.06); }
+        .card-header { font-size: 16px; font-weight: 700; color: var(--accent-cyan); margin-bottom: 14px; display: flex; align-items: center; gap: 8px; }
+        
+        .lineup-box { background: #0F172A; border-radius: 8px; padding: 12px; margin-top: 8px; font-size: 13px; line-height: 1.6; border-left: 3px solid var(--accent-cyan); }
+        .stat-badge { display: inline-block; background: rgba(255,255,255,0.06); padding: 4px 8px; border-radius: 6px; font-size: 12px; margin: 4px 4px 4px 0; color: #CBD5E1; }
+        
+        .odds-row { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 12px; }
+        .odd-btn { background: #0F172A; border: 1px solid rgba(0, 229, 255, 0.2); border-radius: 10px; padding: 10px 6px; text-align: center; }
+        .odd-label { font-size: 11px; color: var(--text-secondary); display: block; margin-bottom: 4px; }
+        .odd-value { font-size: 17px; font-weight: 800; color: #38BDF8; }
+        
+        .prob-bar { height: 10px; border-radius: 5px; background: #334155; margin-top: 10px; overflow: hidden; display: flex; }
+        .prob-fill-1 { background: var(--accent-cyan); height: 100%; }
+        .prob-fill-x { background: var(--yellow); height: 100%; }
+        .prob-fill-2 { background: var(--red); height: 100%; }
+        
+        .summary-box { background: rgba(0, 229, 255, 0.05); border-left: 4px solid var(--accent-cyan); padding: 16px; border-radius: 8px; line-height: 1.6; font-size: 14px; color: #E2E8F0; margin-top: 12px; }
+        .footer { text-align: center; color: var(--text-secondary); font-size: 12px; margin-top: 24px; padding-top: 16px; border-top: 1px solid rgba(255,255,255,0.08); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="logo-area">
+                <img src="../assets/Ertugrul_YZ_Logo.svg" alt="Ertuğrul YZ Logo">
+                <span class="logo-title">Ertuğrul YZ</span>
+            </div>
+            <span class="badge">Derin Kadro, Fiziki & Teknik Analiz Motoru</span>
+        </header>
+
+        <section class="match-banner">
+            <div class="league-title">🏆 İspanya Kral Kupası</div>
+            <div class="teams">
+                <div class="team-box">
+                    <div class="team-name">CD Badajoz</div>
+                    <div class="team-rank">Sıra: #1 • 31 Puan • T.D: Teknik Heyet</div>
+                </div>
+                <div class="vs">VS</div>
+                <div class="team-box">
+                    <div class="team-name">Tenerife</div>
+                    <div class="team-rank">Sıra: #2 • 26 Puan • T.D: Teknik Heyet</div>
+                </div>
+            </div>
+            <div style="color: var(--text-secondary); font-size: 13px;">📅 Yarın 20:00</div>
+        </section>
+
+        <!-- KADRO VE OYUNCULAR -->
+        <div class="grid-2">
+            <div class="card">
+                <div class="card-header">👥 CD Badajoz Kadro & Oyuncular</div>
+                <div><span class="stat-badge">🏟️ Saha: Ev Sahibi</span> <span class="stat-badge">💤 Dinlenme: 4 Gün</span> <span class="stat-badge">✈️ Ulaşım: 0 KM</span></div>
+                <div class="lineup-box">
+                    <strong>📋 Muhtemel 11:</strong><br>Muhtemel Kadro
+                </div>
+                <div style="margin-top: 10px; font-size: 13px;">
+                    <strong>🏥 Eksikler:</strong> Eksik Yok (Tam Kadro)
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">👥 Tenerife Kadro & Oyuncular</div>
+                <div><span class="stat-badge">✈️ Deplasman: 1800 KM Seyahat</span> <span class="stat-badge">💤 Dinlenme: 3 Gün</span> <span class="stat-badge">🔄 Rotasyon: Yüksek</span></div>
+                <div class="lineup-box">
+                    <strong>📋 Muhtemel 11:</strong><br>Muhtemel Kadro
+                </div>
+                <div style="margin-top: 10px; font-size: 13px;">
+                    <strong>🏥 Eksikler:</strong> Kupa Dinlendirmesi / Rotasyon
+                </div>
+            </div>
+        </div>
+
+        <!-- FİZİKİ VE TEKNİK ÇARPIŞMA + ORANLAR -->
+        <div class="grid-2">
+            <div class="card">
+                <div class="card-header">⚡ Fiziki Kondisyon & Taktiksel Çarpışma</div>
+                <div style="font-size: 13px; line-height: 1.6; color: #CBD5E1;">
+                    <p>• <strong>Kondisyon & Eşik:</strong> Badajoz evinde tam hafta dinlenmiş halde çıksa da 65-70. dakikadan sonra fiziksel temposu düşebilir. Tenerife ise profesyonel lig temposuna sahip ancak Kanarya Adaları'ndan İspanya içlerine 1.500+ km uçuş/yol yorgunluğu taşımaktadır.</p>
+                    <p style="margin-top: 8px;">• <strong>Taktiksel Düzen:</strong> Badajoz derin savunma bloğu kurup Aquiles ve Cerro ile kontra arayacak; Tenerife ise kanatlardan (Gerard Valentín) açılan ortalarla Ranos ve Gomis'i topla buluşturmaya odaklanacaktır.</p>
+                </div>
+                <div class="summary-box">
+                    <strong>💡 Ertuğrul YZ İbre Yorumu:</strong><br>Ev sahibi CD Badajoz form ve puan avantajıyla sahaya çıkıyor (%43.0 olasılık). Ancak deplasman ekibi Tenerife gol yollarında etkili. Karşılıklı gol ve 2.5 üst ihtimali istatistiksel olarak öne çıkıyor.
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-header">🎯 Resmi Oranlar & Yapay Zeka Olasılığı</div>
+                <div class="odds-row">
+                    <div class="odd-btn">
+                        <span class="odd-label">MS 1</span>
+                        <span class="odd-value">2.05</span>
+                    </div>
+                    <div class="odd-btn">
+                        <span class="odd-label">MS X</span>
+                        <span class="odd-value">3.30</span>
+                    </div>
+                    <div class="odd-btn">
+                        <span class="odd-label">MS 2</span>
+                        <span class="odd-value">2.90</span>
+                    </div>
+                </div>
+                <div class="odds-row" style="grid-template-columns: 1fr 1fr;">
+                    <div class="odd-btn">
+                        <span class="odd-label">2.5 Alt</span>
+                        <span class="odd-value">1.85</span>
+                    </div>
+                    <div class="odd-btn">
+                        <span class="odd-label">2.5 Üst</span>
+                        <span class="odd-value">1.65</span>
+                    </div>
+                </div>
+                <div style="margin-top: 14px;">
+                    <div style="display:flex; justify-content:space-between; font-size:12px;">
+                        <span>Badajoz (%43.0)</span>
+                        <span>Beraberlik (%26.7)</span>
+                        <span>Tenerife (%30.4)</span>
+                    </div>
+                    <div class="prob-bar">
+                        <div class="prob-fill-1" style="width: 43.0%;"></div>
+                        <div class="prob-fill-x" style="width: 26.7%;"></div>
+                        <div class="prob-fill-2" style="width: 30.4%;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            Ertuğrul YZ Holding Otonom Ajan Yönetimi • 5. Kat Spor Analiz Laboratuvarı • Her hakkı saklıdır.
+        </footer>
+    </div>
+</body>
+</html>

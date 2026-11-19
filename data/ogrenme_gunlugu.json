@@ -1,0 +1,282 @@
+[
+  {
+    "mac": "CD Badajoz vs CD Tenerife",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "2.5 Alt",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'2.5 Alt' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "CD Don Benito vs Real Zaragoza",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS X",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Genel Güç Dengesi ve Beklenmeyen Oyun Akışı",
+    "alinan_ders": "Form ve dinlenme parametreleri dengelendi."
+  },
+  {
+    "mac": "Real Madrid vs Alaves",
+    "tahmin": "MS 1",
+    "gerceklesen": "MS 1",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS 1' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Juventus (K) vs Oh Leuven (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Hacken (K) vs Man City (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Chelsea (K) vs Psg (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Cd Badajoz vs Tenerife",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "2.5 Alt",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'2.5 Alt' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Reddis vs Barakaldo",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Alcoyano vs Mallorca",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "2.5 Alt",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'2.5 Alt' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Deportiva Mine vs Cartagena",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Portugalete vs Union Irun",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Juventus (K) vs Oh Leuven (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Hacken (K) vs Man City (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Chelsea (K) vs Psg (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Portugalete vs Union Irun",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Deportiva Mine vs Cartagena",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Reddis vs Barakaldo",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Alcoyano vs Mallorca",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "2.5 Alt",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'2.5 Alt' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Utebo vs Sabadell",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "2.5 Alt",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'2.5 Alt' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Juventus (K) vs Oh Leuven (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Hacken (K) vs Man City (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Chelsea (K) vs Psg (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Portugalete vs Union Irun",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Deportiva Mine vs Cartagena",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Juventus (K) vs Oh Leuven (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Hacken (K) vs Man City (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Chelsea (K) vs Psg (K)",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Hücum Gücü ve Erken Gol Riski Düşük Hesaplandı",
+    "alinan_ders": "Takımların hücum üretkenliği ve erken gol ihtimali form katsayısına bağlandı."
+  },
+  {
+    "mac": "Portugalete vs Union Irun",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Deportiva Mine vs Cartagena",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Alcoyano vs Mallorca",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "2.5 Alt",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'2.5 Alt' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Utebo vs Sabadell",
+    "tahmin": "2.5 Alt",
+    "gerceklesen": "2.5 Alt",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'2.5 Alt' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Reddis vs Barakaldo",
+    "tahmin": "MS X",
+    "gerceklesen": "MS X",
+    "sonuc": "KAZANDI",
+    "hata_koku": "Yok (Başarılı Tahmin)",
+    "alinan_ders": "'MS X' tercihi başarıyla sonuçlandı. Karar parametreleri doğrulandı."
+  },
+  {
+    "mac": "Mbarara City vs Lugazi Municipal",
+    "tahmin": "MS X",
+    "gerceklesen": "MS 1",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Ev Sahibi Erken Gol ve İç Saha Baskısı Hafife Alındı",
+    "alinan_ders": "İç sahada erken gol bulan takımların skoru koruma direnci yükseltildi, ev sahibi avantajı artırıldı."
+  },
+  {
+    "mac": "Al Adalah vs Al Orubah",
+    "tahmin": "MS X",
+    "gerceklesen": "MS 2",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Deplasman Takımının Geçiş Hücumu ve Kadro Kalitesi Hafife Alındı",
+    "alinan_ders": "Deplasman ekiplerinin geçiş hücumu ve bireysel kalite farkı ağırlığı artırıldı."
+  },
+  {
+    "mac": "Ranchers Bees vs Doma United",
+    "tahmin": "MS X",
+    "gerceklesen": "MS 1",
+    "sonuc": "KAYBETTİ",
+    "hata_koku": "Ev Sahibi Erken Gol ve İç Saha Baskısı Hafife Alındı",
+    "alinan_ders": "İç sahada erken gol bulan takımların skoru koruma direnci yükseltildi, ev sahibi avantajı artırıldı."
+  }
+]

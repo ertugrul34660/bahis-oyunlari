@@ -1,0 +1,30 @@
+# -*- coding: utf-8 -*-
+# Ertuğrul YZ - Bahis Oyunları ve Otonom Spor Analiz Motoru
+# .gitignore
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Temporary and local logs
+*.log
+temp/
+tmp/
+
+# OS specific
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/

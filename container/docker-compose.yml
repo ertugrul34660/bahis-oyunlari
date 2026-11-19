@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  ertugrul-spor-vps:
+    build:
+      context: ..
+      dockerfile: container/Dockerfile
+    container_name: ertugrul-spor-vps-bot
+    restart: always
+    environment:
+      - TZ=Europe/Istanbul
+      - SCAN_INTERVAL_SECONDS=180
+    volumes:
+      - ../data:/app/data
+      - ../ui:/app/ui
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
