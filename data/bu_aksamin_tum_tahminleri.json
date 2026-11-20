@@ -1,0 +1,110 @@
+[
+  {
+    "mac": "Bayern München vs 1. FC Köln",
+    "saat": "22:30",
+    "lig": "Almanya Bundesliga",
+    "en_olasi_skor": "2-0",
+    "skor_yuzde": 19.1,
+    "alternatifler": [
+      {
+        "skor": "3-0",
+        "olasilik": 17.2
+      },
+      {
+        "skor": "1-0",
+        "olasilik": 13.8
+      }
+    ],
+    "iy_tahmini": "İY 1",
+    "iy_15_alt": 64.0,
+    "kg_tercihi": "KG YOK",
+    "kg_var_yuzde": 19.8,
+    "iy_ms": "İY/MS 1/1",
+    "tg_bandi": "2-3 Gol",
+    "home_squad": "Urbig, Laimer, Upamecano, Tah, Stanisic, Kimmich, Pavlovic, Olise, Karl, Harry Kane",
+    "away_squad": "Schwabe, Sebulonsen, Schmied, Simpson-Pusey, Sosa, Krauss, Maina, Moore, Bülter, El Mala",
+    "sakatlar": "Ev: Neuer, Davies, Gnabry | Dep: Hübers, Skhiri, Dallinga",
+    "taktik_ozet": "Harry Kane ve Olise ilk 11'de. Neuer yok ama Urbig eski takımına karşı ekstra konsantre. RULE-01 gereği 1.20 maç sonu pas geçilir; İY 1 (%54) ve 2-0 / 3-0 handikaplı skorlar değerlidir."
+  },
+  {
+    "mac": "Athletic Bilbao vs Espanyol",
+    "saat": "23:00",
+    "lig": "İspanya La Liga",
+    "en_olasi_skor": "2-0",
+    "skor_yuzde": 16.4,
+    "alternatifler": [
+      {
+        "skor": "1-0",
+        "olasilik": 16.1
+      },
+      {
+        "skor": "3-0",
+        "olasilik": 10.5
+      }
+    ],
+    "iy_tahmini": "İY 1",
+    "iy_15_alt": 72.1,
+    "kg_tercihi": "KG YOK",
+    "kg_var_yuzde": 34.0,
+    "iy_ms": "İY/MS 1/1",
+    "tg_bandi": "2-3 Gol",
+    "home_squad": "Unai Simon, Rincón, Laporte, Yuri, Ruiz de Galarreta, Sancet, Berenguer, Inaki Williams, Nico Williams",
+    "away_squad": "Fortuno, El Hilali, Cabrera, Hartman, Santiago, Lozano, Moscardo, Pere Milla, Roberto",
+    "sakatlar": "Ev: Yok (Tam forvet hattı) | Dep: Yeni teknik direktör Eder Sarabia ilk maçında",
+    "taktik_ozet": "Nico ve Inaki Williams kanatlarda, Sancet 10 numarada tam güç! San Mames'te iç saha baskısı çok yüksektir; Espanyol deplasman kısırlığı yaşar. 2-0 / 1-0 ve İY 1 güçlüdür."
+  },
+  {
+    "mac": "Clermont Foot vs FC Metz",
+    "saat": "21:00",
+    "lig": "Fransa Ligue 2",
+    "en_olasi_skor": "1-1",
+    "skor_yuzde": 14.3,
+    "alternatifler": [
+      {
+        "skor": "0-1",
+        "olasilik": 11.4
+      },
+      {
+        "skor": "0-0",
+        "olasilik": 11.0
+      }
+    ],
+    "iy_tahmini": "İY X",
+    "iy_15_alt": 73.2,
+    "kg_tercihi": "KG YOK",
+    "kg_var_yuzde": 48.1,
+    "iy_ms": "İY/MS X/2",
+    "tg_bandi": "2-3 Gol",
+    "home_squad": "Guivarch, Da Silva, Konate, Armougom, Gastien, Keita, Saivet, Douane, Bassouamina",
+    "away_squad": "Oukidja, Kouao, Traore, Cande, Udol, Deminguet, Stambouli, Jallow, Hein, Sabaly",
+    "sakatlar": "Ev: Defansta rotasyon | Dep: Tam kadro zirve takibi",
+    "taktik_ozet": "Fransa 2. lig klasiği. İki denk takımın savunma temkini ilk yarıyı kilitler. İY X (%47.2) ve 1-1 / 0-1 skorları öne çıkar."
+  },
+  {
+    "mac": "Nancy vs Dijon",
+    "saat": "21:00",
+    "lig": "Fransa Ligue 2",
+    "en_olasi_skor": "1-1",
+    "skor_yuzde": 14.1,
+    "alternatifler": [
+      {
+        "skor": "1-0",
+        "olasilik": 12.0
+      },
+      {
+        "skor": "0-0",
+        "olasilik": 11.0
+      }
+    ],
+    "iy_tahmini": "İY X",
+    "iy_15_alt": 73.3,
+    "kg_tercihi": "KG YOK",
+    "kg_var_yuzde": 47.2,
+    "iy_ms": "İY/MS X/1",
+    "tg_bandi": "2-3 Gol",
+    "home_squad": "Sourzac, Bussmann, Pellegrini, Mendy, Carlier, Bouriaud, Camara, Touré, Cissé",
+    "away_squad": "Delecroix, Makutungu, Drouhin, Bernard, Marié, Chahid, Vargas, Schur, Duville-Parmentier",
+    "sakatlar": "Ev: Yok | Dep: Orta sahada eksikler",
+    "taktik_ozet": "Ligin en az gol yiyen savunmalarından ikisi. 2.5 Alt (%64.0) ve İY X beraberlik kilidi en yüksek matematiksel olasılığa sahiptir."
+  }
+]
