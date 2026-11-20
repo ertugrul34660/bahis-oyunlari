@@ -1,0 +1,50 @@
+[
+  {
+    "mac": "Bayern München vs 1. FC Köln",
+    "saat": "22:30",
+    "lig": "Almanya Bundesliga",
+    "en_olasi_skor": "2-0",
+    "skor_yuzde": 19.1,
+    "alternatifler": [
+      {
+        "skor": "3-0",
+        "olasilik": 17.2
+      },
+      {
+        "skor": "1-0",
+        "olasilik": 13.8
+      }
+    ],
+    "iy_tahmini": "İY 1",
+    "iy_15_alt": 64.0,
+    "kg_tercihi": "KG YOK",
+    "kg_var_yuzde": 19.8,
+    "iy_ms": "İY/MS 1/1",
+    "tg_bandi": "2-3 Gol",
+    "taktik": "Bayern Allianz Arena'da fırtına gibi başlar. Ancak RULE-01 uyarınca 1.20 maç sonu favorisine tek başına girilmez! Handikaplı 1, İY 1 ve 3-0 / 3-1 skorları değer üretir."
+  },
+  {
+    "mac": "Athletic Bilbao vs Espanyol",
+    "saat": "23:00",
+    "lig": "İspanya La Liga",
+    "en_olasi_skor": "2-0",
+    "skor_yuzde": 16.4,
+    "alternatifler": [
+      {
+        "skor": "1-0",
+        "olasilik": 16.1
+      },
+      {
+        "skor": "3-0",
+        "olasilik": 10.5
+      }
+    ],
+    "iy_tahmini": "İY 1",
+    "iy_15_alt": 72.1,
+    "kg_tercihi": "KG YOK",
+    "kg_var_yuzde": 34.0,
+    "iy_ms": "İY/MS 1/1",
+    "tg_bandi": "2-3 Gol",
+    "taktik": "San Mames'te Bilbao iç saha presiyle etkilidir. Espanyol deplasmanda kapanır. Dixon-Coles 2-0 / 2-1 ve İY 1 yönünde güçlü sinyal veriyor."
+  }
+]

@@ -334,5 +334,29 @@
     "sonuc": "İY VE İY/MS TAM İSABET",
     "hata_koku": "Yok (Taktiksel Zafer)",
     "alinan_ders": "Büyük kalite uçurumu olan kupa maçlarında deplasman favorisi ilk yarıdan ağırlığını koyar; İY 2 ve 2/2 tercihi en yüksek kârlılığı sunar."
+  },
+  {
+    "mac": "Amiens 2-1 Caen",
+    "tahmin": "İY X (%46.0) & İY/MS X/1 & TG 2-3 Gol",
+    "gerceklesen": "2-1 (İY: 1-1)",
+    "sonuc": "İY/MS X/1 VE İY X TAM İSABET TUTTU",
+    "hata_koku": "Yok (Kusursuz Taktik Zaferi)",
+    "alinan_ders": "Fransa Ligue 3 savunma takımlarında ilk yarı kilitlenmesi (İY X) ve ikinci yarı ev sahibi baskısı (X/1) matematiksel modelimizle %100 örtüştü."
+  },
+  {
+    "mac": "Arsenal (K) 0-2 Lyon (K)",
+    "tahmin": "Skor: 0-2 (%11.3) & İY 2 (%46.4) & İY/MS 2/2",
+    "gerceklesen": "0-2 (İY: 0-1 Lyon)",
+    "sonuc": "0-2 SKOR, İY 2 VE İY/MS 2/2 TAM İSABET TUTTU",
+    "hata_koku": "Yok (Tarihi Skor Zaferi)",
+    "alinan_ders": "RULE-09 (Elit Şampiyonlar Ligi tecrübesi) doğrulandı; Lyon deplasmanda maça ağırlığını koyarak 0-2 skoru ve 2/2 kombinasyonunu birebir getirdi."
+  },
+  {
+    "mac": "Benfica (K) 2-3 Roma (K)",
+    "tahmin": "İY X (%39.1) & KG VAR (%60.5) & TG 4-6 Gol",
+    "gerceklesen": "2-3 (İY: 1-1)",
+    "sonuc": "İY X, KG VAR VE TG 4-6 TAM İSABET TUTTU",
+    "hata_koku": "Yok (Poisson Gol Zaferi)",
+    "alinan_ders": "RULE-12 uyarınca hücum gücü yüksek açık maçlarda KG VAR (%60.5) ve TG 4-6 tercihi 5 gollü bir düelloyla eksiksiz doğrulandı."
   }
 ]
